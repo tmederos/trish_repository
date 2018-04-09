@@ -9,7 +9,7 @@ Check out page here: https://tmederos.github.io/HW-Wireframe/
 ---
 ## Screenshot About Page
 
-![Screenshot](https://github.com/tmederos/HW-Wireframe/blob/master/Layout.png)
+![Screenshot](https://github.com/tmederos/trish_repository/blob/master/screen-shot.jpg)
 
 
 ## Author
